@@ -1,4 +1,4 @@
-- 👋 Hi, I’m satno
+- 👋 Hi, I’m silvanus
 - 👀 I’m a data enthusiast
 - 🌱 I’m currently learning as data scientist/analyst/flutter
 - 💞️ I’m looking to collaborate on open source projects
